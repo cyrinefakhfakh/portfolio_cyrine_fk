@@ -1,0 +1,25 @@
+GenBI-Platform
+https://github.com/cyrinefakhfakh/GenBI-Platform
+Bank Fraud Detection & Risk Scoring Dashboard
+https://github.com/cyrinefakhfakh/Bank-Fraud-Detection
+
+App Coaching Musculation Une application web complète pour le coaching privé en musculation, permettant aux coachs de créer des exercices et programmes, et aux clients de les consulter.
+https://github.com/cyrinefakhfakh/coachingApp
+
+Image-Resizing-with-Seam-Carving
+https://github.com/cyrinefakhfakh/Image-Resizing-with-Seam-Carving
+
+Cryptocurrency_Tracker Dashboard
+https://github.com/cyrinefakhfakh/Cryptocurrency_Tracker/blob/main/app.py
+
+Amana Takaful Assurance - Application de Gestion et d'Analyse
+https://github.com/cyrinefakhfakh/pfeapp
+
+Azure-security-simulator
+https://github.com/cyrinefakhfakh/Azure-security-simulator
+
+https://github.com/cyrinefakhfakh/BicepsTracker
+
+https://github.com/cyrinefakhfakh/Flight-Price-Prediction
+
+https://github.com/cyrinefakhfakh/icecream

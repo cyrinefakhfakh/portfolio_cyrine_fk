@@ -1,0 +1,348 @@
+# PROJECT: CYRINE AI LAB — IMMERSIVE AI & DATA SCIENCE PORTFOLIO
+
+Act as a world-class creative developer, senior UI/UX designer, AI engineer, and digital art director.
+
+Build a complete, production-quality personal portfolio website called **CYRINE AI LAB** for Cyrine Fakhfakh, a Big Data and Data Science graduate/student specializing in data engineering, machine learning, business intelligence, and generative AI.
+
+This must NOT look like a generic developer portfolio template. Create an original, immersive digital laboratory where visitors explore my professional experiences, technical projects, AI experiments, and research interests.
+
+The website should feel like a combination of an advanced AI research lab, an interactive scientific journal, and a premium creative technology studio.
+
+## 1. CREATIVE DIRECTION
+
+Core concept: "Turning Data Into Intelligence."
+
+Visual identity:
+- Dark midnight navy background with deep violet, electric blue, and subtle cyan accents.
+- Atmospheric gradients, soft glows, translucent glass panels, fine grid patterns, and subtle particle effects.
+- Elegant typography combining a modern display font with a highly readable sans-serif.
+- Use generous whitespace, excellent contrast, and sophisticated visual hierarchy.
+- Use abstract neural networks, data streams, interactive nodes, scientific visualizations, and dimensional 3D elements where they genuinely improve the experience.
+- Avoid excessive neon, clutter, generic stock photos, oversized rounded cards everywhere, and distracting animations.
+- Design a recognizable personal brand with a custom CYRINE AI LAB wordmark and a coherent icon system.
+
+The result must look premium, intelligent, creative, technically credible, and memorable.
+
+## 2. HERO SECTION — FIRST IMPRESSION
+
+Create a full-screen, immersive landing page.
+
+Main heading:
+"CYRINE AI LAB"
+
+Headline:
+"Turning Data Into Intelligence."
+
+Supporting text:
+"I build intelligent data solutions, explore machine learning, and transform complex information into meaningful insights."
+
+Small identity label:
+"DATA SCIENCE · GENERATIVE AI · BIG DATA"
+
+Include:
+- An animated abstract neural network or data universe on the right side.
+- Interactive nodes representing AI, Data Engineering, Machine Learning, and Business Intelligence.
+- A subtle animated grid and floating data particles.
+- A short, elegant entrance animation.
+- A prominent "Explore My Lab" button that smoothly navigates to the project universe.
+- A secondary "Download CV" button connected to the actual CV PDF.
+- A "Currently exploring" indicator for current learning and research topics.
+- A scroll indicator that encourages visitors to explore.
+
+Do not invent a current job, employer, or professional status. Make all status labels configurable.
+
+## 3. INTERACTIVE PROJECT UNIVERSE
+
+This is the website's signature feature.
+
+Instead of presenting projects as ordinary cards, create an interactive constellation, orbital system, or connected-node visualization.
+
+Each node represents a real project or professional experience. Selecting a node opens a detailed project view with a smooth transition.
+
+Project categories:
+- Generative AI & LLMs
+- Machine Learning & Deep Learning
+- Big Data & Data Engineering
+- Business Intelligence & Analytics
+- Research & Experiments
+
+Provide two viewing modes:
+1. Interactive universe mode.
+2. Conventional accessible project grid.
+
+Add filters, search, category labels, and sorting options.
+
+Every project must have its own detailed page or modal with:
+- Project overview
+- Problem statement
+- Objectives
+- My actual contribution
+- Technical architecture
+- Technologies used
+- Implementation steps
+- Challenges and solutions
+- Results and evaluation metrics, only when verified
+- Screenshots, diagrams, or interactive demonstrations
+- GitHub repository and live demo links, when available
+- Key takeaways and future improvements
+
+Use realistic project descriptions, but never fabricate results, repository links, clients, confidential information, or completed features.
+
+## 4. PROFESSIONAL EXPERIENCE
+
+Create a premium, interactive career timeline.
+
+### OliveSoft — Generative Business Intelligence
+Summer internship, two months.
+
+Present my work on a GenBI platform involving an AI assistant that generates SQL queries from natural language and supports report generation.
+
+Highlight relevant concepts:
+- Natural language to SQL
+- Generative AI
+- Business intelligence
+- Database interaction
+- Report generation
+
+Only include technologies and features that I can confirm I used.
+
+### Tunisie Telecom — IT Infrastructure
+Internship, July 2024.
+
+Present my exposure to:
+- Data center infrastructure
+- Servers, storage, networking, cooling, and energy systems
+- Active Directory
+- Hyper-V virtualization
+- Bulk user creation using CSV data
+
+Explain how this experience helped me understand the infrastructure behind data systems.
+
+### El Amana Takaful — Insurance Data & AI Project
+Academic/PFE project.
+
+Present the objective of optimizing an insurance product portfolio using data engineering, business intelligence, and machine learning.
+
+Relevant project components:
+- SQL Server Data Warehouse
+- ETL and data integration
+- Dimensional modeling
+- Power BI dashboards
+- Insurance KPIs, including premiums, claims, and loss ratio
+- Machine learning for claims or settlement prediction
+
+Show a clear architecture diagram:
+Data Sources → ETL → Data Warehouse → ML Models → Power BI Dashboards.
+
+Clearly distinguish implemented components from work in progress.
+
+Do not publish actual customer records, policy details, or confidential company information.
+
+## 5. FEATURED TECHNICAL PROJECTS
+
+Create a curated collection of my real projects.
+
+### CryptoTracker
+A cryptocurrency tracking and forecasting project using Python, Streamlit, LSTM, and XGBoost.
+
+Include a time-series visualization and an explanation of the forecasting workflow. Only display actual model results when verified.
+
+### House Prices Prediction
+A machine learning regression project using XGBoost and Optuna for hyperparameter optimization.
+
+Explain the dataset, feature engineering, validation methodology, model selection, and evaluation metrics.
+
+### GenBI / AssistantBI
+An AI-powered business intelligence project involving natural-language interaction with data and SQL generation.
+
+Explain the architecture and demonstrate the workflow with safe sample data where possible.
+
+### BigQuery ML — Taxi Fare Prediction
+A forecasting/regression learning project involving NYC taxi data, data cleaning, feature engineering, and BigQuery ML.
+
+### Hadoop, NLP & Data Engineering
+A dedicated section for academic work involving MapReduce, text processing, NLP methods, and data processing architectures.
+
+Make projects easy to update from a single structured data file or content configuration.
+
+## 6. THE AI RESEARCH CORNER
+
+Create a visually distinct research section that feels like a scientific lab notebook.
+
+Topics of interest:
+- Explainable AI (XAI)
+- LIME and SHAP
+- Grad-CAM
+- Large Language Models
+- AI agents and automation
+- Medical AI
+- Responsible AI
+
+Each research entry should include:
+- Research question
+- Why it matters
+- Methods being explored
+- Current progress
+- References, if verified
+- Next steps
+
+Clearly label ideas, ongoing experiments, and completed research separately.
+
+Create a featured concept called "Making AI Understandable", exploring how explainability techniques can help people understand model predictions, particularly in high-stakes domains such as healthcare.
+
+Do not present a research idea as a validated medical tool or published scientific result.
+
+## 7. INTERACTIVE AI GUIDE
+
+Design an optional "Ask the Lab" interface.
+
+Visitors can ask questions about my experience, projects, technical skills, and research interests.
+
+Examples:
+- "Show me Cyrine's Generative AI projects."
+- "What did she build during her OliveSoft internship?"
+- "Which projects demonstrate machine learning?"
+- "Tell me about her insurance data project."
+
+The assistant must answer using only verified portfolio content.
+
+Implementation requirements:
+- Build a polished chat interface.
+- If no LLM backend is configured, provide a functional demo using predefined intents and project data.
+- If an LLM is connected, retrieve answers only from an approved portfolio knowledge base.
+- Never pretend a real AI backend is running when it is not.
+- Include loading, empty, and error states.
+- Do not expose API keys in frontend code.
+- Make this feature optional and easy to disable.
+
+## 8. SKILLS VISUALIZATION
+
+Do not use generic percentage bars that imply arbitrary proficiency.
+
+Create an interactive skills map grouped by domain:
+
+Programming:
+Python, SQL, R, Scala
+
+Data Engineering & Big Data:
+Hadoop, Spark, ETL, SQL Server, data warehousing
+
+Machine Learning:
+Scikit-learn, XGBoost, LSTM, model evaluation, hyperparameter optimization
+
+Generative AI:
+LLM concepts, text-to-SQL, AI assistants, prompt design
+
+Business Intelligence:
+Power BI, Tableau, KPI design, data visualization
+
+Databases:
+MySQL, MongoDB, Cassandra, NoSQL
+
+Use these as an editable starting list. Only display tools and skills that I can substantiate.
+
+Clicking a skill should reveal related projects where that skill was actually used.
+
+## 9. ABOUT ME
+
+Create a human, authentic introduction that balances technical ambition with personality.
+
+Suggested copy:
+
+"I'm Cyrine, a data enthusiast fascinated by the journey from raw information to intelligent decisions. My interests span data engineering, machine learning, business intelligence, and generative AI. I enjoy exploring how technical systems can solve real-world problems and make complex information more accessible."
+
+Include:
+- My academic background
+- My technical interests
+- My approach to problem-solving
+- My current learning goals
+- My professional aspirations
+
+Keep the tone confident, curious, approachable, and genuine. Do not exaggerate experience or claim expertise without evidence.
+
+Add a clean portrait placeholder that I can replace with my own photo.
+
+## 10. CONTACT & RECRUITER EXPERIENCE
+
+Create a clear contact section with:
+- LinkedIn profile link
+- GitHub profile link
+- Email contact
+- CV download
+- A short professional message inviting internship and project opportunities
+
+Include a configurable availability label for PFE opportunities.
+
+Do not invent URLs or email addresses. Use placeholders until I provide the real information.
+
+The entire website must be optimized for recruiters who may spend less than two minutes exploring it.
+
+A recruiter should quickly understand:
+1. Who I am.
+2. What I can build.
+3. What I have actually done.
+4. How I think about technical problems.
+5. How to contact me.
+
+## 11. TECHNICAL IMPLEMENTATION
+
+Preferred stack:
+- Next.js with TypeScript
+- React
+- Tailwind CSS
+- Framer Motion for restrained transitions
+- Lucide icons
+- Recharts or Plotly for visualizations when appropriate
+- React Three Fiber only if it adds meaningful value and remains performant
+
+Requirements:
+- Responsive mobile-first design.
+- Reusable, maintainable components.
+- Semantic HTML and accessible interactions.
+- Keyboard-accessible navigation.
+- Respect reduced-motion preferences.
+- SEO metadata and social-sharing previews.
+- Fast initial page load and optimized images.
+- Clear loading, empty, and error states.
+- Functional navigation and buttons.
+- No fake forms, broken links, or decorative controls pretending to work.
+- Use environment variables for secrets.
+- Provide an example environment configuration without real credentials.
+- Include a README with installation, local development, customization, and deployment instructions.
+
+The site must run locally without requiring paid APIs.
+
+If 3D graphics create performance or compatibility issues, provide a lightweight CSS/SVG alternative.
+
+## 12. DESIGN DETAILS THAT MAKE IT SPECIAL
+
+Add these signature interactions:
+- A custom cursor effect on desktop, disabled on touch devices.
+- Project nodes that gently react to pointer movement.
+- Smooth transitions between the project universe and project detail views.
+- Subtle data-flow animations in technical architecture diagrams.
+- A command palette opened with Ctrl/Cmd + K for navigating projects and sections.
+- A light/dark theme option if it can be implemented cleanly.
+- A small "Lab Notes" section for new experiments.
+- A visible distinction between completed, ongoing, and planned projects.
+
+All motion must serve usability, not distract from content.
+
+## 13. DELIVERABLES
+
+Build the actual working website, not just a design mockup or a written plan.
+
+Deliver:
+1. Complete source code.
+2. A polished homepage and all major sections.
+3. Responsive project detail views.
+4. An editable project and experience data structure.
+5. Functional navigation, filtering, and interactions.
+6. A CV download mechanism connected to a real file when provided.
+7. A README and deployment instructions.
+8. A checklist of content that still requires my personal information.
+9. Clear instructions for replacing placeholders with my actual CV, portrait, URLs, screenshots, and verified project metrics.
+
+Start by establishing the visual system and project architecture, then implement the complete website. Do not stop after generating the hero section.
+
+Final quality bar: the result should feel like a distinctive, premium personal AI lab created by a technically minded and creative data scientist—not a generic portfolio template.
